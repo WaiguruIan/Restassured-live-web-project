@@ -12,7 +12,8 @@ RestAssured is a web-based solution designed to [insert one sentence about what 
 We prioritize speed and user experience. According to **Google PageSpeed Insights**, the platform achieves near-perfect scores:
 
 <p align="center">
-  <img src="" alt="PageSpeed Insights Score" width="800">
+  ![PageSpeed Insights Score](https://raw.githubusercontent.com/IanWaiguru/your-repo/main/image_6be8d9.png)
+  <img src="https://github.com/WaiguruIan/Restassured-live-web-project/blob/main/Screenshot%202026-03-18%20203733.png?raw=true" alt="PageSpeed Insights Score" width="800">
 </p>
 
 ### Core Web Vitals
